@@ -1,1 +1,1 @@
-# Regression_firsy_course_project
+# Regression_first_course_project
